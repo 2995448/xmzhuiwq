@@ -1,1 +1,1 @@
-{"code":1,"msg":"获取成功","data":[ {"mdhseuOff":"1","mdhseuid":"yy26882","mdhseush":"https://line.me/ti/p/~yy26882","mdhseubshbges":"https://raw.githubusercontent.com/mnqjkdh/zuagjoq/main/backgorund.png","mdhdanRrl":"https://www.cjhjksd.com/"} ]}
+{"code":1,"msg":"获取成功","data":[ {"mdhseuOff":"0","mdhseuid":"yy26882","mdhseush":"https://line.me/ti/p/~yy26882","mdhseubshbges":"https://raw.githubusercontent.com/2995448/xmzhuiwq/main/backgorund.jpg","mdhdanRrl":"https://www.cjhjksd.com/"} ]}
